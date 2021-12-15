@@ -1,0 +1,9 @@
+C:\Users\Usuario\source\repos\hi\hi\bin\Debug\hi.exe.config
+C:\Users\Usuario\source\repos\hi\hi\bin\Debug\hi.exe
+C:\Users\Usuario\source\repos\hi\hi\bin\Debug\hi.pdb
+C:\Users\Usuario\source\repos\hi\hi\obj\Debug\hi.Form1.resources
+C:\Users\Usuario\source\repos\hi\hi\obj\Debug\hi.Properties.Resources.resources
+C:\Users\Usuario\source\repos\hi\hi\obj\Debug\hi.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\hi\hi\obj\Debug\hi.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\hi\hi\obj\Debug\hi.exe
+C:\Users\Usuario\source\repos\hi\hi\obj\Debug\hi.pdb
